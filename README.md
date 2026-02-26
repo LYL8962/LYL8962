@@ -1,3 +1,7 @@
+[![](https://img.shields.io/badge/Eng-FFAC1C)](README.md)
+[![](https://img.shields.io/badge/Chi-FFAC1C)](README_chi.md)
+
+
 # About me
 -  `HK`  Born and raised in Hong Kong 
 - 2️⃣ Year 2
@@ -7,8 +11,12 @@
 
 ---
 
+<!--
 # Experiences
 - 🧑‍🔧One year experience in HKUST RoboMaster team Enterprise as mechanic
+
+
+
 
 # Languages I know
 - Advanced:\
@@ -18,6 +26,14 @@
 - Beginner:\
 ![alt text](Images/c++.png)
 ![alt text](Images/R.png)
+-->
+# Languages I know
+|Advanced|Intermediate|Beginner|
+|---|---|---|
+|![python](Images/python.png)|![alt text](Images/excel_vba.png)|![alt text](Images/c++.png) ![alt text](Images/R.png)
+
+
+
 
 # Past Projects (solo)
 - [Counter](https://github.com/LYL8962/Simple-Counter)
