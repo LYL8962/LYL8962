@@ -33,8 +33,8 @@
 </div>
 
 # 💡 My Projects
-- [Simple Counter (python)](https://github.com/LYL8962/Simple-Counter)
-- [Auto Clicker (python, working in progress)](https://github.com/LYL8962/Auto-Clicker)
+- 🔢 [Simple Counter (python)](https://github.com/LYL8962/Simple-Counter)
+- 🖱️ [Auto Clicker (python, working in progress)](https://github.com/LYL8962/Auto-Clicker)
 
 
 # 🤩 My Hobbies
