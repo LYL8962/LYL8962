@@ -3,7 +3,7 @@
 
 
 # About me
--  `HK`  Born and raised in Hong Kong 
+-  :hong_kong:  Born and raised in Hong Kong 
 - 2️⃣ Year 2
 - ⚡ Electric Engineering
 - 🏫 HKUST
@@ -27,31 +27,32 @@
 ![alt text](Images/c++.png)
 ![alt text](Images/R.png)
 -->
+
 # Languages I know
 |Advanced|Intermediate|Beginner|
-|---|---|---|
-|![python](Images/python.png)|![alt text](Images/excel_vba.png)|![alt text](Images/c++.png) ![alt text](Images/R.png)
+|:---:|:---:|:---:|
+|<img src="Images/python.png"/> | <img src="Images/excel_vba.png"/> | <img src="Images/c++.png"/> <img src="Images/R.png"/>| 
 
 
 
 
 # Past Projects (solo)
 - [Counter](https://github.com/LYL8962/Simple-Counter)
-- [Auto Clicker](https://github.com/LYL8962/Auto-Clicker)
+- [Auto Clicker (In progress)](https://github.com/LYL8962/Auto-Clicker)
 
 
 
 
 # Hobbies
-- 🖥️ Programming
 - 🚚 Driving
+- 🖥️ Programming
 - 🎮 Gaming
 
 
 
 
-
+<!--
 **LYL8962/LYL8962** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 
 
