@@ -8,8 +8,7 @@
 
 
 # 🎯 About me
-
--  :hong_kong:  Born and raised in Hong Kong 
+- :hong_kong: Born and raised in Hong Kong 
 - 2️⃣ Year 2 
 - ⚡ Electric Engineering 
 - 🏫 HKUST 
@@ -17,18 +16,9 @@
 - 🟠 Favourite color: orange 
 - 🧠 mbti: istj 
 
-<br>
-<br>
-
-
 # 🌟 Experiences
 - 🧑‍🔧 24-25: Member of HKUST RoboMaster team Enterprise as mechanic
-- 😭 I'd like to have more...
-
-
-<br>
-<br>
-
+- ~~😭 Hire me for more...~~
 
 # 💻 Technical Skills 
 <div align="center">
@@ -42,22 +32,15 @@
 
 </div>
 
-
-
 # 💡 My Projects
 - [Simple Counter (python)](https://github.com/LYL8962/Simple-Counter)
 - [Auto Clicker (python, working in progress)](https://github.com/LYL8962/Auto-Clicker)
 
-<br>
-<br>
 
 # 🤩 My Hobbies
 - 🚚 Driving 🅿️
 - 🖥️ Programming
 - 🎮 Gaming
-
-<br>
-<br>
 
 # 📩 Contacts
 
