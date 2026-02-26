@@ -1,58 +1,75 @@
-[![](https://img.shields.io/badge/Eng-FFAC1C)](README.md)
-[![](https://img.shields.io/badge/Chi-FFAC1C)](README_chi.md)
+<div align="center">
+
+[![](https://img.shields.io/badge/Eng-orange?style=plastic)](README.md)
+[![](https://img.shields.io/badge/繁體中文-orange?style=plastic)](README_traditional_chi.md)
+[![](https://img.shields.io/badge/简体中文-orange?style=plastic)](README_simplified_chi.md)
+
+</div>
 
 
-# About me
+# 🎯 About me
+
 -  :hong_kong:  Born and raised in Hong Kong 
-- 2️⃣ Year 2
-- ⚡ Electric Engineering
-- 🏫 HKUST
-- 🗣️ English, Cantonese, Mandarin
+- 2️⃣ Year 2 
+- ⚡ Electric Engineering 
+- 🏫 HKUST 
+- 🗣️ English, Cantonese, Mandarin 
+- 🟠 Favourite color: orange 
+- 🧠 mbti: istj 
 
----
-
-<!--
-# Experiences
-- 🧑‍🔧One year experience in HKUST RoboMaster team Enterprise as mechanic
-
+<br>
+<br>
 
 
-
-# Languages I know
-- Advanced:\
-!['python'](Images/python.png)
-- Intermediate:\
-![alt text](Images/excel_vba.png)
-- Beginner:\
-![alt text](Images/c++.png)
-![alt text](Images/R.png)
--->
-
-# Languages I know
-|Advanced|Intermediate|Beginner|
-|:---:|:---:|:---:|
-|<img src="Images/python.png"/> | <img src="Images/excel_vba.png"/> | <img src="Images/c++.png"/> <img src="Images/R.png"/>| 
+# 🌟 Experiences
+- 🧑‍🔧 24-25: Member of HKUST RoboMaster team Enterprise as mechanic
+- 😭 I'd like to have more...
 
 
+<br>
+<br>
 
 
-# Past Projects (solo)
-- [Counter](https://github.com/LYL8962/Simple-Counter)
-- [Auto Clicker (In progress)](https://github.com/LYL8962/Auto-Clicker)
+# 💻 Technical Skills 
+<div align="center">
+
+| **Advanced** | **Intermediate** | **Beginner** |
+|:-:|:-:|:-:|
+| <img src="Images/python.png" width="200"/> | <img src="Images/excel_vba.jpg" width="200"/> | <img src="Images/c++.png" width="200"/> 
+| <img src="Images/vscode.png" width="200"/> | <img src="Images/github.png" width="200"/> | <img src="Images/R.png" width="200"/> | 
+|  | <img src="Images/solidworks.png" width="200"/> | <img src="Images/vs.png" width="200"/> |
+|  |  | <img src="Images/linux.png" width="200"/> |
+
+</div>
 
 
 
+# 💡 My Projects
+- [Simple Counter (python)](https://github.com/LYL8962/Simple-Counter)
+- [Auto Clicker (python, working in progress)](https://github.com/LYL8962/Auto-Clicker)
 
-# Hobbies
-- 🚚 Driving
+<br>
+<br>
+
+# 🤩 My Hobbies
+- 🚚 Driving 🅿️
 - 🖥️ Programming
 - 🎮 Gaming
 
+<br>
+<br>
 
+# 📩 Contacts
+
+<a href="https://github.com/LYL8962">
+    <img src="https://img.shields.io/badge/Github-LYL8962-orange?style=plastic&logo=github&labelColor=black"/>
+</a>
+<a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-LYL8962-orange?style=plastic&logo=LinkedIn&logoSize=wide&labelColor=blue"/>
+</a>
 
 
 <!--
 **LYL8962/LYL8962** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
 
