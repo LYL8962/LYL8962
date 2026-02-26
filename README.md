@@ -1,6 +1,13 @@
-## Hi there 👋
+# About me
+- 🏫 HKUST
+- ⚡  Electric Engineering
+- Year 2 student
 
-<!--
+
+
+
+
+
 **LYL8962/LYL8962** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
